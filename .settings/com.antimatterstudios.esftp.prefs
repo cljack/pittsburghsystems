@@ -1,0 +1,12 @@
+Create\ Empty\ Directories=true
+Password=&_phUkU2Racksp4ac_&
+Recurse\ Subdirectories=true
+Save\ Password=true
+Site\ Root=/var/www/vhosts/pittsburghsystems.us
+Username=root
+eclipse.preferences.version=1
+port=22
+protocol=0
+server=pittsburghsystems.us
+timeout=30
+verified=false

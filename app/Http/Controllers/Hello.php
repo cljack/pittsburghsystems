@@ -6,5 +6,13 @@ use Illuminate\Http\Request;
 
 class Hello extends Controller
 {
-    echo "Hello World";
+	public function __construct()
+	{
+
+	}
+	
+	public function index()
+	{
+    	echo "Hello World";
+	}
 }
