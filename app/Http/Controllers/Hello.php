@@ -8,7 +8,7 @@ class Hello extends Controller
 {
 	public function __construct()
 	{
-
+		echo "Hello World0";
 	}
 	
 	public function index()
